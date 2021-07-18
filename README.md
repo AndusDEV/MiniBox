@@ -1,5 +1,5 @@
 # <p align="center">MiniBox</p>
-## <p align="center">Your Everything. Small. In one app.</p>
+## <p align="center">Your Everything. Smaller. In one app.</p>
 
 ## Dev Dependencies:
 - JDK 8+
